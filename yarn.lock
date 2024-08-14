@@ -1093,6 +1093,11 @@
     schema-utils "^4.2.0"
     source-map "^0.7.3"
 
+"@rescript/react@^0.13.0":
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/@rescript/react/-/react-0.13.0.tgz#0dcc8792415e6d2cd9273002e227dc5fa537f5d8"
+  integrity sha512-YSIWIyMlyF9ZaP6Q3hScl1h3wRbdIP4+Cb7PlDt7Y1PG8M8VWYhLoIgLb78mbBHcwFbZu0d5zAt1LSX5ilOiWQ==
+
 "@sinclair/typebox@^0.27.8":
   version "0.27.8"
   resolved "https://registry.npmjs.org/@sinclair/typebox/-/typebox-0.27.8.tgz"
@@ -3684,6 +3689,11 @@ requires-port@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/requires-port/-/requires-port-1.0.0.tgz"
   integrity sha512-KigOCHcocU3XODJxsu8i/j8T9tzT4adHiecwORRQ0ZZFcp7ahwXuRU1m+yuO90C5ZUyGeGfocHDI14M3L3yDAQ==
+
+rescript@^11.1.3:
+  version "11.1.3"
+  resolved "https://registry.yarnpkg.com/rescript/-/rescript-11.1.3.tgz#f285c988c64d7d9c397fca615ac2412681e4144e"
+  integrity sha512-bI+yxDcwsv7qE34zLuXeO8Qkc2+1ng5ErlSjnUIZdrAWKoGzHXpJ6ZxiiRBUoYnoMsgRwhqvrugIFyNgWasmsw==
 
 resolve-cwd@^3.0.0:
   version "3.0.0"
