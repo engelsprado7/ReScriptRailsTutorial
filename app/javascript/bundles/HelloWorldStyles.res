@@ -37,36 +37,36 @@
 // The Tailwind compiler will pick up the following:
 // let greenBackground = "bg-green-500"
 
-// let container = cx(["block", "m-2", "h-screen", "bg-white", "font-['Open_Sans']", "text-base"])
+let container = cx(["block", "m-2", "h-screen", "bg-white", "font-['Open_Sans']", "text-base"])
 
-// let h3 = cx(["block", "text-[1.17em]", "font-bold", "mbs-[1em]", "mbe-[1em]", "mis-0", "mie-0"])
+let h3 = cx(["block", "text-[1.17em]", "font-bold", "mbs-[1em]", "mbe-[1em]", "mis-0", "mie-0"])
 
-// let hr = cx([
-//   "block",
-//   "mbs-[0.5em]",
-//   "mbe-[0.5em]",
-//   "mis-auto",
-//   "mie-auto",
-//   "overflow-hidden",
-//   "border-t",
-//   "border-black",
-//   "border-inset",
-// ])
+let hr = cx([
+  "block",
+  "mbs-[0.5em]",
+  "mbe-[0.5em]",
+  "mis-auto",
+  "mie-auto",
+  "overflow-hidden",
+  "border-t",
+  "border-black",
+  "border-inset",
+])
 
-// let input = cx([
-//   "border-inset",
-//   "inline-block",
-//   "border-1",
-//   "py-px",
-//   "px-0.5",
-//   "text-sm",
-//   "font-sans",
-// ])
+let input = cx([
+  "border-inset",
+  "inline-block",
+  "border-1",
+  "py-px",
+  "px-0.5",
+  "text-sm",
+  "font-sans",
+])
 
-let container = "block m-2 h-screen bg-white font-['Open_Sans'] text-base"
+// let container = "block m-2 h-screen bg-white font-['Open_Sans'] text-base"
 
-let h3 = "block text-[1.17em] font-bold mbs-[1em] mbe-[1em] mis-0 mie-0"
+// let h3 = "block text-[1.17em] font-bold mbs-[1em] mbe-[1em] mis-0 mie-0"
 
-let hr = "block mbs-[0.5em] mbe-[0.5em] mis-auto mie-auto overflow-hidden border-t border-black border-inset"
+// let hr = "block mbs-[0.5em] mbe-[0.5em] mis-auto mie-auto overflow-hidden border-t border-black border-inset"
 
-let input = "border-inset inline-block border-1 py-px px-0.5 text-sm font-sans"
+// let input = "border-inset inline-block border-1 py-px px-0.5 text-sm font-sans"
