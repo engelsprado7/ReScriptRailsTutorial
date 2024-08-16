@@ -1,7 +1,7 @@
 // app/javascript/bundles/HelloWorldStyles.res
 // Without the bsc-flags option you would have the add the following to have
 // access to the cx([...]) function:
-open Cx
+// open Cx
 // or write the function as Cx.cx([...])
 
 // The container function (below) concatenates the strings into
