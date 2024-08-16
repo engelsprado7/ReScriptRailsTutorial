@@ -1,0 +1,10 @@
+{
+  "sources": [
+    {
+      "dir": "app/javascript/bundles",
+      "subdirs": true
+    }
+  ],
+  "bs-dev-dependencies": ["rescript-classnames"],
+  "bsc-flags": ["-open Cx"]
+}
