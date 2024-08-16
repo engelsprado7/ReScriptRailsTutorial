@@ -14,5 +14,6 @@
   ],
   "jsx": { "version": 4, "mode": "classic" },
   "suffix": ".res.js",
-  "bs-dependencies": ["@rescript/react", "rescript-classnames"]
+  "bs-dependencies": ["@rescript/react", "rescript-classnames"],
+  "bsc-flags": ["-open Cx"]
 }

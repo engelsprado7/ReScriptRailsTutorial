@@ -1,4 +1,5 @@
 {
+  "name": "rescript",
   "sources": [
     {
       "dir": "app/javascript/bundles",
