@@ -50,6 +50,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "shakapacker"
+gem "shakapacker", "= 7.2.0"
 gem "tailwindcss-rails", "2.6.1"
-gem "react_on_rails", "= 14.0.4"
+gem "react_on_rails", "= 14.0.0"

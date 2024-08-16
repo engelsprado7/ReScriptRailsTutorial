@@ -2,7 +2,7 @@
   "name": "rescript",
   "sources": [
     {
-      "dir": "app/javascript/bundles",
+      "dir": "app/javascript",
       "subdirs": true
     }
   ],
